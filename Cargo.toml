@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-automated-installation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS automated-installation component - cloud"
+
+[lib]
+name = "automated_installation"
+path = "src/lib.rs"
